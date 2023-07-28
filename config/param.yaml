@@ -1,4 +1,4 @@
 tag_can_driver:
   ros__parameters:
-    imu_topic: "/imu"
-    can_topic: "/received_messages"
+    imu_topic: "/imu/data"
+    can_topic: "/CAN/received_messages"
